@@ -1,7 +1,7 @@
+import LaodingSpinImage from '../assets/loading-spinner.gif';
+import { Chatbot } from 'supersimpledev';
 import { useState } from 'react';
 import  dayjs  from 'dayjs';
-import { Chatbot } from 'supersimpledev';
-import LaodingSpinImage from '../assets/loading-spinner.gif'
 
 import './ChatInput.css';
 
