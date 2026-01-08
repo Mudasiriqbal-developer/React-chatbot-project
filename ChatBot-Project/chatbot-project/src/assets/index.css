@@ -1,0 +1,10 @@
+body {
+        font-family: Arial, sans-serif;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        
+        background-repeat: no-repeat;
+        background-position: center;
+        background-image: url('./BlackPic.jpg');
+        background-size: auto;
+      }
