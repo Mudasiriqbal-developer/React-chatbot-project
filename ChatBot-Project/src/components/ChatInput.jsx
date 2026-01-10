@@ -2,7 +2,6 @@ import LaodingSpinImage from '../assets/loading-spinner.gif';
 import { Chatbot } from 'supersimpledev';
 import { useState } from 'react';
 import  dayjs  from 'dayjs';
-
 import './ChatInput.css';
 
 export function ChatInput({chatMessages, setChatMessages}) {
